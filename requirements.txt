@@ -1,0 +1,7 @@
+these are the requirements : 
+python v 3.12.0 ( https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe )
+pip install opencv-python
+pip install pyzbar
+pip install Flask
+pip install zbarlight
+pip install db-sqlite3
